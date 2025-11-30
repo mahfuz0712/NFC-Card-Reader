@@ -1,0 +1,6 @@
+.venv-*/
+build/
+dist/
+src/
+app.spec
+icon.txt
